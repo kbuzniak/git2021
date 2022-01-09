@@ -29,4 +29,6 @@ git push - publikuje lokalne zmiany zmiany w repozytorium GitHub-a
 git pull - pobiera zmiany z repozytorium zdalnego
 
 #branche - gałęzie
-git checkout -b nazwa_brancha - utworzenie nowej gałęzi
+git checkout -b nazwa_brancha - utworzenie nowej gałęzi i przejście na nią
+git checkout -b feature/1-header_do_pliku_index
+git push --set-upstream origin feature/1-header_do_pliku_index - tworzenie gałęzi na GitHubie
