@@ -18,7 +18,7 @@ git log - pokazuje wszystkie commit-y wykonane w repozytorium
 git revert nr_git_log - wycofanie wybranego commit-a
 git show nr_git_log - wyświetla zmiany w konkretnym commit-cie, bez nr_git_log wyświetli ostatni commit
 
-## git commit --amend "zmiana" - zmiana komentarza
+git commit --amend "zmiana" - zmiana komentarza
 
 #Polecenia w terminalu - operacje na koncie GitHub
 git clone ścieżka_z_GitHub - pobiera pliki z repozytorium GitHub-a
@@ -27,3 +27,6 @@ git status
 git add .
 git push - publikuje lokalne zmiany zmiany w repozytorium GitHub-a
 git pull - pobiera zmiany z repozytorium zdalnego
+
+#branche - gałęzie
+git checkout -b nazwa_brancha - utworzenie nowej gałęzi
