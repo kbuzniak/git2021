@@ -22,3 +22,8 @@ git show nr_git_log - wyświetla zmiany w konkretnym commit-cie, bez nr_git_log 
 
 #Polecenia w terminalu - operacje na koncie GitHub
 git clone ścieżka_z_GitHub - pobiera pliki z repozytorium GitHub-a
+
+git status
+git add .
+git push - publikuje lokalne zmiany zmiany w repozytorium GitHub-a
+git pull - pobiera zmiany z repozytorium zdalnego
