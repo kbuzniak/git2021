@@ -39,3 +39,4 @@ git push --set-upstream origin feature/1-header_do_pliku_index - tworzenie gaÅ‚Ä
 		git add .
 		git commit -m "dodanie notatki do pliku komendy"
 		git push
+		
